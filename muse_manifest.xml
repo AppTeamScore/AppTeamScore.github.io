@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1564598631135">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1564600205372">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="96029351" ref="index"/>
-    <file name="iefonts_index.css" crc="3961850557" ref="index"/>
+    <file name="index.css" crc="4000724709" ref="index"/>
+    <file name="iefonts_index.css" crc="522908801" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,5 +20,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="5760407" seo="true" mt="1564598622176" redirect="true"/>
+  <file name="index.html" crc="3988598085" seo="true" mt="1564600144920" redirect="true"/>
 </manifest>
