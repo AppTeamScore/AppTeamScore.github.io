@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1564600205372">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1564602380914">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4000724709" ref="index"/>
-    <file name="iefonts_index.css" crc="522908801" ref="index"/>
+    <file name="index.css" crc="3782244602" ref="index"/>
+    <file name="iefonts_index.css" crc="255745648" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,6 +19,9 @@
     <file name="teamscore.jpg" crc="535751661" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="analysis-u442.png" crc="3912601870" ref="index"/>
+    <file name="brain-u402.png" crc="4027972328" ref="index"/>
+    <file name="bullseye-u428.png" crc="3887362156" ref="index"/>
   </folder>
-  <file name="index.html" crc="3988598085" seo="true" mt="1564600144920" redirect="true"/>
+  <file name="index.html" crc="4098245350" seo="true" mt="1564602287666" redirect="true"/>
 </manifest>
