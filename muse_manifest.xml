@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1564665485715">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1565013087629">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="213078674" ref="index"/>
-    <file name="iefonts_index.css" crc="4269248232" ref="index"/>
+    <file name="index.css" crc="430476657" ref="index"/>
+    <file name="iefonts_index.css" crc="318207284" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,11 +23,10 @@
     <file name="brain-u402.png" crc="3855998028" ref="index"/>
     <file name="bullseye-u428.png" crc="468491442" ref="index"/>
     <file name="анализ-футбольных-матчей-favicon.ico" crc="4176469844" ref="index"/>
-    <file name="hand-u660.png" crc="4065310229" ref="index"/>
-    <file name="neural-u674.png" crc="4102141710" ref="index"/>
-    <file name="bullseye (1)-u680.png" crc="478404826" ref="index"/>
-    <file name="baby-u717.png" crc="3884266531" ref="index"/>
-    <file name="computer-u723.png" crc="469235192" ref="index"/>
+    <file name="football-player-u760.png" crc="3940490704" ref="index"/>
+    <file name="stopwatch-u777.png" crc="265708220" ref="index"/>
+    <file name="piggy-bank-u803.png" crc="4102224826" ref="index"/>
+    <file name="baby-u812.png" crc="3788038626" ref="index"/>
   </folder>
-  <file name="index.html" crc="4279049850" seo="true" mt="1564665472102" redirect="true"/>
+  <file name="index.html" crc="4218160949" seo="true" mt="1565013032181" redirect="true"/>
 </manifest>
