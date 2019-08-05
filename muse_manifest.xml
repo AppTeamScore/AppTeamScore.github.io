@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1565034325635">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1565047364883">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="388079727" ref="index"/>
+    <file name="index.css" crc="4215315389" ref="index"/>
     <file name="iefonts_index.css" crc="4186981565" ref="index"/>
-    <file name="thanks.css" crc="3876064222" ref="thanks"/>
+    <file name="thanks.css" crc="4159862467" ref="thanks"/>
     <file name="iefonts_thanks.css" crc="57649457" ref="thanks"/>
   </folder>
   <folder name="scripts">
@@ -40,6 +40,6 @@
     <file name="pie-chart-u1248.png" crc="353536546" ref="index"/>
     <file name="pie-chart-u1248-r.png" crc="297423662" ref="index"/>
   </folder>
-  <file name="index.html" crc="377876000" seo="true" mt="1565034230164" redirect="true"/>
-  <file name="thanks.html" crc="59743854" seo="true" mt="1565034315406" redirect="true"/>
+  <file name="index.html" crc="4005056039" seo="true" mt="1565047169114" redirect="true"/>
+  <file name="thanks.html" crc="60494563" seo="true" mt="1565047340497" redirect="true"/>
 </manifest>
