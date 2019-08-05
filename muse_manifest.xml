@@ -1,18 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1565013087629">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="AppTeamScore.github.io" resolutions="1x" timestamp="1565016181254">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="430476657" ref="index"/>
-    <file name="iefonts_index.css" crc="318207284" ref="index"/>
+    <file name="index.css" crc="3984896695" ref="index"/>
+    <file name="iefonts_index.css" crc="4131642061" ref="index"/>
+    <file name="_______-__-_________.css" crc="338974417" ref="спасибо-за-поддержку"/>
+    <file name="iefonts________-__-_________.css" crc="4150295864" ref="спасибо-за-поддержку"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:спасибо-за-поддержку"/>
+    <file name="museutils.js" crc="340535759" ref="index:спасибо-за-поддержку"/>
+    <file name="whatinput.js" crc="86476730" ref="index:спасибо-за-поддержку"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:спасибо-за-поддержку"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:спасибо-за-поддержку"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:спасибо-за-поддержку"/>
+    <file name="require.js" crc="7928878" ref="index:спасибо-за-поддержку"/>
+    <file name="webpro.js" crc="4059564322" ref="спасибо-за-поддержку"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="спасибо-за-поддержку"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -27,6 +31,9 @@
     <file name="stopwatch-u777.png" crc="265708220" ref="index"/>
     <file name="piggy-bank-u803.png" crc="4102224826" ref="index"/>
     <file name="baby-u812.png" crc="3788038626" ref="index"/>
+    <file name="big-money-bag-u855.png" crc="90341643" ref="index"/>
+    <file name="спасибо-за-поддержку-favicon.ico" crc="4176469844" ref="спасибо-за-поддержку"/>
   </folder>
-  <file name="index.html" crc="4218160949" seo="true" mt="1565013032181" redirect="true"/>
+  <file name="index.html" crc="3964161365" seo="true" mt="1565016170811" redirect="true"/>
+  <file name="спасибо-за-поддержку.html" crc="4018764031" seo="true" mt="1565016144634" redirect="true"/>
 </manifest>
